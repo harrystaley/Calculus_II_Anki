@@ -1,0 +1,572 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "66a0975c-b6e6-11ed-9edf-1110bb0abf82",
+            "deck_config_uuid": "11ae97d4-a760-11ed-8af1-a14d95925fac",
+            "desc": "Please see the <a href='https://ankiweb.net/shared/info/1210110765'>shared deck page</a> for more info.",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "latex-04016fc0d99cf40ee33a07c72ebd7f7113664f47.png",
+                "latex-047f3f5399ba79fd8a09c4e01c3dea619755b288.png",
+                "latex-0a09374c5fa4efd3d54278018d22a34c7bd12de2.png",
+                "latex-102d2fe64902ccea2ffa35697d9d721143b4a10a.png",
+                "latex-11e50ab00b43d7dd19a271db71c086f29203a3b9.png",
+                "latex-12602e474bca9aedd8a742489e05177a3ee4989d.png",
+                "latex-1b684a1d237ccf32ec4bc80256f41b51b4209ec0.png",
+                "latex-2515a0ce3937d78f036601af55623587fd2ec208.png",
+                "latex-25202488b003a2cb5ec18c85a7789f9e775059d8.png",
+                "latex-2bfc2c8b940524f59ff2a9141b5707b18d53e8fa.png",
+                "latex-2bfc4b1cbacc56fde3c68c2ec4f7da084ff1c907.png",
+                "latex-2cf7f5c1a60d2d4d7f230b743a073e730ec89cea.png",
+                "latex-3103e2b31ccefab8b3efb30c4d45e358c7005abb.png",
+                "latex-31bfa35e1050e68dea3d4dd57fcd0eaf514f0134.png",
+                "latex-3e66aa067572d742cb828618d3d8efcd46b62122.png",
+                "latex-4fdef82d55ca4bc0733c23c9b9e95e4c2a6cf2f6.png",
+                "latex-5c6a7d1b215fd454c3e38b07cabaac0e8089c11b.png",
+                "latex-5c6e6b7e5dc004ab2354475ddcf62270c5b73076.png",
+                "latex-6b0725a8e0955c48c2cb1030e12e7592cd49944a.png",
+                "latex-6e7472f57a691fc84c4acd9250263bc4200e12f9.png",
+                "latex-7077277f56f1bdf5fcb9af6651a4728ceb574d8d.png",
+                "latex-79c61847640cae9200bf06ba7bcd28bb2b9f8ad4.png",
+                "latex-7a35a7c8d602b53a18f3a6287767c380646cf2db.png",
+                "latex-9097f44252800072bd4999ad553348a65b62ae26.png",
+                "latex-97dd8dcbaee82d832f422c5172069c71a377b71f.png",
+                "latex-996c94c583ab4060dc7022875bad834bd70878a8.png",
+                "latex-9d869215a47cf94e144ed35203c763405ef5d917.png",
+                "latex-a39a34349a348e8f34f5bf42ee2d0703707f932f.png",
+                "latex-b0e14516bf84ffd5257e2c4c3be0c32bc8148834.png",
+                "latex-b83dfa8139cce5a349ddc137743d8a3ec62da840.png",
+                "latex-b93ccf97ebdbfb7d4a8387cbb926a946447ef311.png",
+                "latex-b9aaf4f23fbfc9c567c310dbfe3ddc283d6a5fff.png",
+                "latex-c1322ac516b115fb1f6bcb0601bb8fb489527f1a.png",
+                "latex-cb181e81ed2e7e838714342ceeb1003b34a1e37f.png",
+                "latex-cb8c0d9c51e634d2c93d1526d0cad339aedc1566.png",
+                "latex-cfbc16160a47a0c19d2292e621388162a7af29c5.png",
+                "latex-d545d399b1313a29f063745d74d1e7dcffaa7ff0.png",
+                "latex-d610517b9099f5742bedb225796bd02952cb0463.png",
+                "latex-d72b7b1b74c3da7af908ba43ef1d63eb7e94490f.png",
+                "latex-d873fecf52b18bc7f4cf498a8e4d21b56fb8a2a1.png",
+                "latex-da8b345da582c53b989bfb83f4c4b27a31a60a11.png",
+                "latex-dbc3f46b8e6f47d897ca6bcc0178d943b733f6b8.png",
+                "latex-e5258a07cf584bfe66c8f49193e6baf3e33787ad.png",
+                "latex-e66c1279d351c5d0ce3edc671294ed1f57d7c1d0.png",
+                "latex-e9320932bab4fa34c2c0ca4d5228362cda487b56.png",
+                "latex-ed63b085b1bb9d814f5a3230abc838068c2a4a2f.png",
+                "latex-f2a04633e2d4e32ee2e3d686626ba5a3e00ecb58.png",
+                "latex-f2bbf0d3d37143bcab60197582538a6b285136a6.png",
+                "latex-f64b3befe461a09230dce6d39abf2060f997394e.png",
+                "latex-faba079f46dc8e8b2008b88b23c0cb39975bbddc.png",
+                "latex-fb9b3e86d1d0fd0d4626b0c6902eab464c4e3784.png"
+            ],
+            "name": "Common Integrals and Rules for Integration",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[$$]\\boldsymbol{\\int cf(x)\\mathrm{d}x}[/$$]<div>c is a constant</div>",
+                        "[$$]\\boldsymbol{c \\int f(x)dx}[/$$]"
+                    ],
+                    "guid": "hqp]Hq]Cww",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Integrals,",
+                        "Rules"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[$$]\\boldsymbol{\\int_{a}^{b} f(x)\\mathrm{d}x}[/$$]",
+                        "[$]\\boldsymbol{F(x)|_a^b} =<div>\\boldsymbol{F(b) - F(a)}</div><div>&nbsp;where &nbsp;\\boldsymbol{F(x) = \\int f(x)dx}[/$]</div>"
+                    ],
+                    "guid": "J:Xud};bAN",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Integrals,",
+                        "Rules"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[$$]\\boldsymbol{\\int f(x) \\pm g(x) \\mathrm{d}x}[/$$]",
+                        "[$$]\\boldsymbol{\\int f(x)dx \\pm \\int g(x) dx}[/$$]"
+                    ],
+                    "guid": "Qe-xr@d&4{",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Integrals,",
+                        "Rules"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[$$]\\boldsymbol{\\int_{a}^{a} f(x)\\mathrm{d}x}[/$$]",
+                        "[$$]\\boldsymbol{F(x)|_a^a=F(a)-F(a)=0} where&nbsp;\\boldsymbol{F(x)=\\int f(x)dx}[/$$]"
+                    ],
+                    "guid": "fVS^Lh9QJJ",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Integrals,",
+                        "Rules"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[$]\\boldsymbol{\\int \\mathrm{d}x}[/$]",
+                        "[$]\\boldsymbol{x+c}[/$]<div>c is a constant</div>"
+                    ],
+                    "guid": "K}Q_m]ENRk",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Common,",
+                        "Integrals,",
+                        "Polynomials"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[$]\\boldsymbol{\\int k\\mathrm{d}x}[/$]",
+                        "[$]\\boldsymbol{kx+c}[/$]<div>c is a constant</div>"
+                    ],
+                    "guid": "o&o3BX3a/0",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Common,",
+                        "Integrals,",
+                        "Polynomials"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[$]\\boldsymbol{\\int x^{n}\\mathrm{d}x}[/$]",
+                        "[$]\\boldsymbol{ \\frac{1}{n+1}x^{n+1}+c,n \\neq -1}[/$]<div>\"Anti-Power Rule\"</div>"
+                    ],
+                    "guid": "A)FyqdxB(B",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Common,",
+                        "Integrals,",
+                        "Polynomials"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[$]\\boldsymbol{\\int \\frac{1}{x}\\mathrm{d}x}[/$]",
+                        "[$]\\boldsymbol{ln \\left | x \\right | + c}<br />[/$]<div>c is a constant</div>"
+                    ],
+                    "guid": "l91W{f*kX`",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Common,",
+                        "Integrals,",
+                        "Polynomials"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[$]\\boldsymbol{\\int x^{-1}\\mathrm{d}x}[/$]",
+                        "[$]\\boldsymbol{ln \\left | x \\right | + c}<br />[/$]"
+                    ],
+                    "guid": "A6qM;.+xHE",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Common,",
+                        "Integrals,",
+                        "Polynomials"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[$]\\boldsymbol{\\int x^{-n}\\mathrm{d}x}[/$]",
+                        "[$]\\boldsymbol{\\frac{1}{-n+1}x^{-n+1} + c,n \\neq 1}<br />[/$]<div>from the Anti-Power Rule</div>"
+                    ],
+                    "guid": "DcA,!}+@`G",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Common,",
+                        "Integrals,",
+                        "Polynomials"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[$]\\boldsymbol{\\int \\frac{1}{ax+b}\\mathrm{d}x}[/$]",
+                        "[$]\\boldsymbol{\\frac{1}{a}ln\\left | ax+b \\right | + c}<br />[/$]"
+                    ],
+                    "guid": "jmcH=+?Khm",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Common,",
+                        "Integrals,",
+                        "Polynomials"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[$]\\boldsymbol{\\int x^{\\frac{p}{q}}\\mathrm{d}x}[/$]",
+                        "[$]\\boldsymbol{\\frac{1}{\\frac{p}{q}+1}x^{\\frac{p}{q}+1} + c = \\frac{q}{p+q}x^{\\frac{p+q}{q}} + c}<br />[/$]<div>from the Anti-Power Rule</div>"
+                    ],
+                    "guid": "Gx[rAw-9-]",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Common,",
+                        "Integrals,",
+                        "Polynomials"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[$]\\boldsymbol{\\int \\sin x \\mathrm{d}x}<br />[/$]",
+                        "[$]\\boldsymbol{-\\cos x +c}<br />[/$]"
+                    ],
+                    "guid": "P+PRjq`-6y",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Common",
+                        "Integrals",
+                        "Trig"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "<div>[$]\\boldsymbol{\\int \\cos x \\mathrm{d}x}</div><div>[/$]</div>",
+                        "[$]\\boldsymbol{\\sin x +c}<br />[/$]"
+                    ],
+                    "guid": "CvFn[Eip:R",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Common",
+                        "Integrals",
+                        "Trig"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[$]\\boldsymbol{\\int \\sec^{2} x \\mathrm{d}x}<br />[/$]",
+                        "[$]\\boldsymbol{\\tan x +c}<br />[/$]"
+                    ],
+                    "guid": "xo1/YjMi@c",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Common",
+                        "Integrals",
+                        "Trig"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[$]\\boldsymbol{\\int \\sec x \\tan x \\mathrm{d}x }<br />[/$]",
+                        "[$]\\boldsymbol{\\sec x +c}<br />[/$]"
+                    ],
+                    "guid": "Fazmh#Fovp",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Common",
+                        "Integrals",
+                        "Trig"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[$]\\boldsymbol{\\int \\csc x \\cot x \\mathrm{d} x}<br />[/$]",
+                        "[$]\\boldsymbol{-\\csc x +c}<br />[/$]"
+                    ],
+                    "guid": "e*4pOa?ZCF",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Basic",
+                        "Integrals",
+                        "Trig"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[$]\\boldsymbol{\\int \\csc^{2} x \\mathrm{d} x}<br />[/$]",
+                        "[$]\\boldsymbol{-\\cot x +c}<br />[/$]"
+                    ],
+                    "guid": "B_[8&C:LDq",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Basic",
+                        "Integrals",
+                        "Trig"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[$]\\boldsymbol{\\int \\tan x \\mathrm{d} x}<br />[/$]",
+                        "[$]\\boldsymbol{\\mathrm{ln}\\left | \\sec x \\right | +c}[/$]"
+                    ],
+                    "guid": "QoLzh=>v+k",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Basic",
+                        "Integrals",
+                        "Trig"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[$]\\boldsymbol{\\int \\cot x \\mathrm{d} x}<br />[/$]",
+                        "[$]\\boldsymbol{\\mathrm{ln}\\left | \\sin x \\right | +c}[/$]"
+                    ],
+                    "guid": "ph_hOX-G`|",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Basic",
+                        "Integrals",
+                        "Trig"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[$]\\boldsymbol{\\int \\sec x \\mathrm{d} x}<br />[/$]",
+                        "[$]\\boldsymbol{\\mathrm{ln}\\left | \\sec x + \\tan x \\right | +c}[/$]"
+                    ],
+                    "guid": "u|:fBi%rCe",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Basic",
+                        "Integrals",
+                        "Trig"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[$]\\boldsymbol{\\int \\csc x \\mathrm{d} x}<br />[/$]",
+                        "[$]\\boldsymbol{\\mathrm{ln}\\left | \\csc x - \\cot x \\right | +c}[/$]"
+                    ],
+                    "guid": "jCyi{(pwhx",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Basic",
+                        "Integrals",
+                        "Trig"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[$]\\boldsymbol{\\int e^{x} \\mathrm{d} x}<br />[/$]",
+                        "[$]\\boldsymbol{e^{x} +c}[/$]"
+                    ],
+                    "guid": "xP.oO&ZXMA",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Basic",
+                        "Exponential",
+                        "Integrals",
+                        "Log"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[$]\\boldsymbol{\\int \\mathrm{ln} x \\mathrm{d} x}<br />[/$]",
+                        "[$]\\boldsymbol{x \\mathrm{ln}(x) -x+c}[/$]"
+                    ],
+                    "guid": "pPxd%TSe*t",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Basic",
+                        "Exponential",
+                        "Integrals",
+                        "Log"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[$]\\boldsymbol{\\int &nbsp;xe^{x} \\mathrm{d} x}<br />[/$]",
+                        "[$]\\boldsymbol{ (x-1)e^{x}+c}[/$]"
+                    ],
+                    "guid": "FSM0GB?Ev&",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Basic",
+                        "Exponential",
+                        "Integrals",
+                        "Log"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[$]\\boldsymbol{\\int &nbsp;u \\mathrm{d} v}<br />[/$] \"Integration by Parts\"",
+                        "[$]\\boldsymbol{ uv- \\int v \\mathrm{d} u}[/$]"
+                    ],
+                    "guid": "f_iyrzaCaZ",
+                    "note_model_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+                    "tags": [
+                        "Basic",
+                        "Integrals",
+                        "Techniques"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        }
+    ],
+    "crowdanki_uuid": "669ff2d4-b6e6-11ed-9edf-1110bb0abf82",
+    "deck_config_uuid": "11ae97d4-a760-11ed-8af1-a14d95925fac",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "11ae97d4-a760-11ed-8af1-a14d95925fac",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    2,
+                    0
+                ],
+                "order": 1,
+                "perDay": 500,
+                "separate": true
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 5000
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "Calculus II",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "66a0d5aa-b6e6-11ed-9edf-1110bb0abf82",
+            "css": ".card {\nfont-family: arial;\nfont-size: 20px;\ntext-align: center;\ncolor: black;\nbackground-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[10pt]{article} \n\\usepackage{amssymb,amsmath} \n\\usepackage[paperwidth=3in, paperheight=5in]{geometry}\n\\pagestyle{empty} \n\\setlength{\\parindent}{0in} \n\\begin{document} ",
+            "latexsvg": false,
+            "name": "Basic-07f63",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "Matrix",
+                "Multiplication",
+                "Product"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{Back}}",
+                    "bafmt": "",
+                    "bfont": "Arial",
+                    "bqfmt": "",
+                    "bsize": 12,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
