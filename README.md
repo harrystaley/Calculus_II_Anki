@@ -1,53 +1,55 @@
 ```markdown
 # Calculus_II_Anki
 
-![Anki Logo](https://upload.wikimedia.org/wikipedia/commons/6/6e/Anki-logo.svg)
+## Overview
 
-## Project Overview
-
-**Calculus_II_Anki** is a collaborative Anki deck designed to assist students and enthusiasts in mastering Calculus II concepts. This deck is meticulously curated from authoritative sources such as [Paul's Online Math Notes](http://tutorial.math.lamar.edu/), [Wikipedia](https://www.wikipedia.org/), and [MIT OpenCourseWare](https://ocw.mit.edu/). Leveraging LaTeX and MathJax, we ensure that mathematical formulas are displayed with precision and clarity.
+**Calculus_II_Anki** is a collaborative Anki deck designed to aid students and enthusiasts in mastering Calculus II concepts. This deck is meticulously curated from reputable resources such as [Paul's Online Notes](http://tutorial.math.lamar.edu/), [Wikipedia](https://www.wikipedia.org/), and [MIT OpenCourseWare](https://ocw.mit.edu/). It utilizes LaTeX and MathJax to ensure that mathematical formulas are displayed with precision and clarity.
 
 ## Features
 
-- **Comprehensive Content**: Covers a wide range of Calculus II topics.
-- **High-Quality Sources**: Information compiled from reputable educational resources.
-- **LaTeX and MathJax Integration**: For accurate mathematical representation.
-- **Collaborative Effort**: Open to contributions to continually improve the deck.
+- **Comprehensive Coverage**: Includes a wide array of topics typically covered in Calculus II courses.
+- **High-Quality Sources**: Derived from trusted educational resources.
+- **LaTeX and MathJax Support**: Ensures accurate and readable mathematical notation.
+- **Collaborative Effort**: Open to contributions for continuous improvement and expansion.
 
 ## Installation
 
-To use the Calculus_II_Anki deck, follow these steps:
+To use the Calculus II Anki deck, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/Calculus_II_Anki.git
    ```
+
 2. **Import into Anki**:
-   - Open Anki.
-   - Go to `File` > `Import`.
-   - Select the downloaded `.apkg` file from the cloned repository.
+   - Open Anki on your device.
+   - Go to `File` > `Import...`.
+   - Select the downloaded deck file from the cloned repository.
 
 ## Usage
 
-Once imported into Anki, you can start using the deck to review Calculus II topics. Customize your study sessions by adjusting the review settings in Anki to fit your learning pace.
+Once you have imported the deck into Anki, you can begin using it as part of your study routine. Here are some tips:
+
+- **Review Regularly**: Consistent review is key to retaining information.
+- **Customize**: Feel free to modify the deck to better suit your learning style.
+- **Explore Resources**: Use the links provided in the deck to deepen your understanding.
 
 ## Contribution Guidelines
 
-We welcome contributions to enhance the Calculus_II_Anki deck. Please follow these simple guidelines:
+We welcome contributions to enhance the Calculus II Anki deck. To contribute:
 
-1. **Fork the Repository**: Create your own copy of the repository.
-2. **Create a New Branch**: Make changes in a new branch.
-3. **Submit a Pull Request**: Provide a clear description of your changes.
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Commit your changes with clear and descriptive messages.
+4. Open a pull request and describe the changes you've made.
 
-For more detailed guidelines, please refer to the `CONTRIBUTING.md` file in the repository.
+For more detailed contribution guidelines, please refer to `CONTRIBUTING.md` in the repository.
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
 
-Enhance your Calculus II learning experience with our comprehensive Anki deck, and join us in building a valuable educational resource for all learners.
+We hope this Anki deck becomes a valuable tool in your Calculus II journey. Happy studying!
 ```
-
-**Note**: Replace `https://github.com/yourusername/Calculus_II_Anki.git` with the actual URL of your GitHub repository.
