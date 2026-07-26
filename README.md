@@ -1,55 +1,46 @@
 ```markdown
 # Calculus_II_Anki
 
-## Overview
-
-**Calculus_II_Anki** is a collaborative Anki deck designed to aid students and enthusiasts in mastering Calculus II concepts. This deck is meticulously curated from reputable resources such as [Paul's Online Notes](http://tutorial.math.lamar.edu/), [Wikipedia](https://www.wikipedia.org/), and [MIT OpenCourseWare](https://ocw.mit.edu/). It utilizes LaTeX and MathJax to ensure that mathematical formulas are displayed with precision and clarity.
+Welcome to the **Calculus_II_Anki** repository, a collaborative effort to create a comprehensive Anki deck designed for mastering Calculus II. This project leverages LaTeX/MathJax to ensure precise mathematical notation and is sourced from trusted educational materials to guarantee the highest quality of content.
 
 ## Features
 
-- **Comprehensive Coverage**: Includes a wide array of topics typically covered in Calculus II courses.
-- **High-Quality Sources**: Derived from trusted educational resources.
-- **LaTeX and MathJax Support**: Ensures accurate and readable mathematical notation.
-- **Collaborative Effort**: Open to contributions for continuous improvement and expansion.
+- **Comprehensive Coverage**: Includes key topics and concepts from Calculus II.
+- **Precise Notation**: Utilizes LaTeX/MathJax for clear and accurate mathematical expressions.
+- **Collaborative Effort**: Contributions from multiple users to enrich the deck with diverse insights.
+- **Educational Sources**: Content is curated from reputable educational materials.
 
-## Installation
+## Setup
 
 To use the Calculus II Anki deck, follow these steps:
 
-1. **Clone the Repository**:
+1. **Download Anki**: Ensure you have Anki installed on your device. You can download it from [Anki's official website](https://apps.ankiweb.net/).
+2. **Clone the Repository**: Clone this repository to your local machine using the command:
    ```bash
    git clone https://github.com/yourusername/Calculus_II_Anki.git
    ```
-
-2. **Import into Anki**:
-   - Open Anki on your device.
-   - Go to `File` > `Import...`.
-   - Select the downloaded deck file from the cloned repository.
+3. **Import the Deck**: Open Anki, then import the `.apkg` file from the cloned repository.
 
 ## Usage
 
-Once you have imported the deck into Anki, you can begin using it as part of your study routine. Here are some tips:
-
-- **Review Regularly**: Consistent review is key to retaining information.
-- **Customize**: Feel free to modify the deck to better suit your learning style.
-- **Explore Resources**: Use the links provided in the deck to deepen your understanding.
+Once the deck is imported, open Anki and start your study sessions. You can customize your learning experience by adjusting the review settings within Anki. The deck is structured to progressively build your understanding of Calculus II concepts.
 
 ## Contribution Guidelines
 
-We welcome contributions to enhance the Calculus II Anki deck. To contribute:
+We welcome contributions from the community! To contribute:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
-3. Commit your changes with clear and descriptive messages.
-4. Open a pull request and describe the changes you've made.
+3. Commit your changes and push them to your fork.
+4. Open a pull request with a detailed description of your changes.
 
-For more detailed contribution guidelines, please refer to `CONTRIBUTING.md` in the repository.
+Please ensure your contributions maintain the quality and educational integrity of the deck.
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
-We hope this Anki deck becomes a valuable tool in your Calculus II journey. Happy studying!
+Thank you for your interest in improving the Calculus II learning experience! If you have any questions or feedback, feel free to open an issue or contact the maintainers.
 ```
