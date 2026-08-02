@@ -1,40 +1,45 @@
 ```markdown
 # Calculus_II_Anki
 
-Welcome to the **Calculus_II_Anki** repository, a collaborative effort to create a comprehensive Anki deck designed for mastering Calculus II. This project leverages LaTeX/MathJax to ensure precise mathematical notation and is sourced from trusted educational materials to guarantee the highest quality of content.
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
+## Overview
+
+**Calculus_II_Anki** is a comprehensive Anki deck designed for mastering Calculus II concepts. This deck is meticulously curated from trusted educational sources and features precise LaTeX/MathJax notation to ensure clarity and accuracy in mathematical expressions. Whether you're a student or a lifelong learner, this deck will enhance your understanding and retention of advanced calculus topics.
 
 ## Features
 
-- **Comprehensive Coverage**: Includes key topics and concepts from Calculus II.
-- **Precise Notation**: Utilizes LaTeX/MathJax for clear and accurate mathematical expressions.
-- **Collaborative Effort**: Contributions from multiple users to enrich the deck with diverse insights.
-- **Educational Sources**: Content is curated from reputable educational materials.
+- **Comprehensive Coverage**: Includes a wide range of Calculus II topics such as integration techniques, sequences and series, parametric equations, and polar coordinates.
+- **Precise Notation**: Utilizes LaTeX/MathJax for accurate mathematical representation.
+- **Curated Content**: Sources from reputable educational materials to ensure quality and reliability.
+- **Interactive Learning**: Leverages the Anki platform for spaced repetition, enhancing long-term retention.
 
 ## Setup
 
-To use the Calculus II Anki deck, follow these steps:
+To use the Calculus_II_Anki deck, follow these steps:
 
-1. **Download Anki**: Ensure you have Anki installed on your device. You can download it from [Anki's official website](https://apps.ankiweb.net/).
-2. **Clone the Repository**: Clone this repository to your local machine using the command:
-   ```bash
-   git clone https://github.com/yourusername/Calculus_II_Anki.git
-   ```
-3. **Import the Deck**: Open Anki, then import the `.apkg` file from the cloned repository.
+1. **Install Anki**: If you haven't already, download and install Anki from [Anki's official website](https://apps.ankiweb.net/).
+2. **Download the Deck**: Clone this repository or download the deck file directly from the [Releases](https://github.com/yourusername/Calculus_II_Anki/releases) section.
+3. **Import the Deck**: Open Anki, click on `File` > `Import`, and select the downloaded deck file to import it into Anki.
 
 ## Usage
 
-Once the deck is imported, open Anki and start your study sessions. You can customize your learning experience by adjusting the review settings within Anki. The deck is structured to progressively build your understanding of Calculus II concepts.
+Once the deck is imported into Anki:
 
-## Contribution Guidelines
+- Open Anki and navigate to the Calculus II deck.
+- Start reviewing the cards at your own pace.
+- Utilize Anki’s scheduling features to optimize your study sessions.
 
-We welcome contributions from the community! To contribute:
+## Contribution
+
+We welcome contributions to enhance the quality and scope of this Anki deck. To contribute:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
-3. Commit your changes and push them to your fork.
-4. Open a pull request with a detailed description of your changes.
+3. Make your changes and commit them with clear messages.
+4. Push your changes to your fork and submit a pull request.
 
-Please ensure your contributions maintain the quality and educational integrity of the deck.
+Please ensure all contributions adhere to the existing style and structure of the deck.
 
 ## License
 
@@ -42,5 +47,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Thank you for your interest in improving the Calculus II learning experience! If you have any questions or feedback, feel free to open an issue or contact the maintainers.
+Happy Learning!
 ```
